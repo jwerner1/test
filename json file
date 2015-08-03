@@ -1,0 +1,10 @@
+{
+  "sqldb":
+  {
+        "db":"softqadb",
+        "host":"127.0.0.1",
+        "passwd":"",
+        "user":"root",
+        "port":"3306"
+  }
+}
